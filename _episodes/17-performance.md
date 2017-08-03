@@ -9,6 +9,7 @@ objectives:
 keypoints:
 - "Practice makes perfect."
 ---
+
 > ## Round Two
 >
 > Divide into groups of three and take turns re-teaching your chosen live coding session. Give feedback to each
